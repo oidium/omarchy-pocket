@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.oidium.pocket",
+  "name": "Pocket \u2014 KDE Connect Bar",
+  "version": "1.1.0",
+  "author": "Oidium",
+  "description": "Keep your phone in your pocket. Bring files, notifications, battery and media to your Omarchy bar, with automatic theme matching.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Pocket",
+    "description": "KDE Connect phone panel with automatic Omarchy theme matching",
+    "category": "Network",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/oidium/omarchy-pocket"
+}
