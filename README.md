@@ -122,7 +122,7 @@ capture below is preserved unchanged from initial development, with the
 owner's permission; it shows the earlier Pocket prototype and its original
 on-screen content.
 
-![Original Pocket desktop screenshot](images/desktop-original.png)
+![Original Pocket desktop screenshot](images/screenshot-2026-10-03_10-06-33.png)
 
 ## Privacy and behavior
 
